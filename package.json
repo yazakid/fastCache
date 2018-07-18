@@ -1,0 +1,22 @@
+{
+  "name": "fastcache",
+  "version": "0.0.1",
+  "description": "'前端缓存工具'",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yazakid/fastCache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "yazakid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yazakid/fastCache/issues"
+  },
+  "homepage": "https://github.com/yazakid/fastCache#readme"
+}
